@@ -33,6 +33,7 @@ public class testingTestNGAnnotation {
 //	
 	@Test
 	public void test1() {
+
 		System.out.println("Test1");
 	}
 
